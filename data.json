@@ -553,10 +553,10 @@
   ],
   "meta": {
     "lastCheckedAt": "2026-11-15T22:05:50+08:00",
-    "scheduleStatus": "pending",
-    "scheduleText": "每日 08:00 自动核查尚未启用；目前展示已核验的静态资料。",
+    "scheduleStatus": "active",
+    "scheduleText": "每天北京时间 08:00 启动官方信息核查，核查完成后同步更新；首次计划运行：2026年11月16日 08:00。",
     "summary": "首批核查覆盖三地重点医院及医学招生入口；官方全文未取得的项目已单独标注。",
-    "revision": 0
+    "revision": 1
   },
   "logs": [
     {
