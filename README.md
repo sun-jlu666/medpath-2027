@@ -14,6 +14,7 @@
 
 GitHub Pages 使用公开仓库、main 分支根目录，无需购买域名。完整页面文件包括 index.html、assets、favicon.svg、data.json 和 .nojekyll。
 
-日常资料只需更新 data.json。每天北京时间08:00的云端核查任务已启用，实际完成情况以页面核查时间和日志为准。任务读取 [MAINTENANCE.md](MAINTENANCE.md)，应逐院核查并保留来源失败及未完成项，不得把仅启用计划当成实际更新。
+日常资料只需更新 data.json。每天北京时间08:00和14:00的云端核查任务均已启用，核查完成后同步网站，实际完成情况以页面核查时间和日志为准。任务读取 [MAINTENANCE.md](MAINTENANCE.md)，应逐院核查并保留来源失败及未完成项，不得把仅启用计划当成实际更新。
 
 资料结构包含 records、sources、hospitals、coverage、meta、logs。稳定记录ID用于分享和收藏，不得随意变更。请勿上传密码、访问令牌、环境变量文件或个人报名材料。
+
