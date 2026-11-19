@@ -66,7 +66,7 @@
       "verification": "verified",
       "note": "departments仅含正文可核查的内外科细分；完整基地与学历目录在原文图片，未OCR，不把此列表标为完整。建议报名尽早完成并以投递系统时间为准。 官网页面另标招聘截止11月30日13:59，请尽早投递并核对报名系统。",
       "university": "上海交通大学",
-      "checkedAt": "2026-11-18T07:58:35+08:00"
+      "checkedAt": "2026-11-19T08:04:15+08:00"
     },
     {
       "id": "sh-sixth-residency-2027",
@@ -134,23 +134,37 @@
     },
     {
       "id": "sh-sjtu-phd-2027-monitor",
-      "title": "上海交通大学医学院2027普通博士招生·持续关注",
+      "title": "上海交通大学医学院2027普通博士招生目录（医学院简章与报名待发布）",
       "city": "上海",
       "institution": "上海交通大学医学院",
       "year": 2027,
-      "publishedDate": null,
+      "publishedDate": "2026-11-18",
       "registrationStart": null,
       "registrationEnd": null,
-      "sourceUrl": "https://www.shsmu.edu.cn/yjsy/zsgz1/zssy/bszs.htm",
-      "sourceName": "上海交通大学医学院研究生院",
+      "sourceUrl": "https://yzb.sjtu.edu.cn/post/3832",
+      "sourceName": "上海交通大学研究生招生网",
       "type": "申博",
       "departments": [],
-      "requirements": "待官方公告或原文核验后补充。",
-      "assessment": "具体考核方式与时间尚未核实，请关注官方通知。",
-      "verification": "watching",
-      "note": "本轮未确认2027普通博士申请考核公告，不等于官方未发布。已查到2027医工交叉本科直博、若干附院推免复试及临床医学MD改革专项，分别列项；不能将这些独立通道视作普通博士报名已开放。致远荣誉通知：https://www.shsmu.edu.cn/yjsy/info/1059/8106.htm；推免通知：https://www.shsmu.edu.cn/yjsy/info/1059/8153.htm。",
+      "requirements": "校级2027博士专业目录已发布，可按院系、学科和导师查询；具体报考条件仍须以医学院招生简章及培养单位申请办法为准。",
+      "assessment": "普通招考拟采用申请-考核。2026-11-19 08:04核对官方院系申请办法页面，医学院及瑞金、仁济、新华、第九、第一、第六、儿童、胸科、精神卫生中心、国际和平妇幼保健院、儿童医学中心、同仁医院、松江医院等医学培养单位均显示“暂未开放报名”；考核方式与时间待后续官方细则。",
+      "verification": "partial",
+      "note": "校级目录为真实新增，但医学院博士招生简章尚未在医学院博士招生栏目发布；院系申请办法页面也未开放医学培养单位报名。未据此推算报名日期，亦未把目录发布解释为任一附院已确认名额或报名开放。",
       "university": "上海交通大学",
-      "checkedAt": "2026-11-17T21:30:12+08:00"
+      "checkedAt": "2026-11-19T08:04:15+08:00",
+      "relatedSources": [
+        {
+          "label": "上海交通大学2027年博士研究生招生专业目录查询",
+          "url": "https://ga.sjtu.edu.cn/zsgl/zsmlgl/zsml_bs.aspx"
+        },
+        {
+          "label": "上海交通大学2027博士院系申请办法与报名状态",
+          "url": "https://ga.sjtu.edu.cn/zsgl/bswb/yxsqbfcx.aspx"
+        },
+        {
+          "label": "上海交通大学医学院博士招生栏目",
+          "url": "https://www.shsmu.edu.cn/yjsy/zsgz1/zssy/bszs.htm"
+        }
+      ]
     },
     {
       "id": "sh-fudan-phd-2027-monitor",
@@ -296,7 +310,7 @@
       "assessment": "具体考核方式与时间尚未核实，请关注官方通知。",
       "verification": "partial",
       "note": "大学统招公告，包含南京及外地培养单位；网站仅可展示南京培养单位，不能将全校专业全部归到某一家医院。目录确认鼓楼临床医学院和第二临床医学院等临床培养单位有2027博士专业。",
-      "checkedAt": "2026-11-18T07:58:35+08:00"
+      "checkedAt": "2026-11-19T08:04:15+08:00"
     },
     {
       "id": "nj-njmu-clinical-phd-internal-selection-2027",
@@ -322,7 +336,7 @@
       "evidenceUrls": [
         "https://yjszs.njmu.edu.cn/2026/1013/c10189a307820/page.htm"
       ],
-      "checkedAt": "2026-11-18T14:01:07+08:00"
+      "checkedAt": "2026-11-19T08:04:15+08:00"
     },
     {
       "id": "nj-seu-phd-2027",
@@ -436,7 +450,7 @@
       "assessment": "具体考核方式与时间尚未核实，请关注官方通知。",
       "verification": "partial",
       "note": "医学院原文连续抓取超时；不能据非医学学院或非官方转载补填临床医学科室、英语要求、日期、考核。发布日采用官方转发列表显示日期，原文发布日期待核验。此条是院级申博入口，不代表附属各医院都有独立2027公告。 2026-11-15补查原文与备用页面仍超时或不可访问；未用非官方转载数据填充报名条件或日期。",
-      "checkedAt": "2026-11-18T07:58:35+08:00"
+      "checkedAt": "2026-11-19T08:04:15+08:00"
     },
     {
       "id": "hz-zy1-residency-2027-watch",
@@ -455,7 +469,7 @@
       "assessment": "具体考核方式与时间尚未核实，请关注官方通知。",
       "verification": "watching",
       "note": "本轮未检索到2027相关公告，不等于官方尚未发布；不得沿用往年日期和要求。",
-      "checkedAt": "2026-11-18T07:58:35+08:00"
+      "checkedAt": "2026-11-19T08:04:15+08:00"
     },
     {
       "id": "hz-zjuch-residency-2027-watch",
@@ -512,7 +526,7 @@
       "assessment": "具体考核方式与时间尚未核实，请关注官方通知。",
       "verification": "watching",
       "note": "本轮未检索到2027相关公告，不等于官方尚未发布；不得沿用往年日期和要求。",
-      "checkedAt": "2026-11-18T07:58:35+08:00"
+      "checkedAt": "2026-11-19T08:04:15+08:00"
     },
     {
       "id": "sh-sjtu-md-reform-2027",
@@ -534,7 +548,7 @@
       "verification": "verified",
       "note": "该项目为非医学专业本科生进入临床医学专业博士培养的改革试点（4年非医本科+4年临床医学MD，并可继续攻读PhD或选择进入住培），不是面向医学硕士的普通临床医学博士统招；本轮核查时申请截止时间已过。",
       "university": "上海交通大学",
-      "checkedAt": "2026-11-17T21:30:12+08:00"
+      "checkedAt": "2026-11-19T08:04:15+08:00"
     },
     {
       "id": "sh-fudan-zhongshan-phd-2027-monitor",
@@ -1854,7 +1868,7 @@
       "assessment": "笔试、面试时间另行通知，考核地点为本院；择优录取。",
       "verification": "verified",
       "note": "已读官方域名完整索引正文；直接打开偶有超时。报名已截止，开始时间未单独明确，故为null。此为口腔住培，医院三级甲等资质未核验，须与临床医学及三甲筛选分别处理。",
-      "checkedAt": "2026-11-18T07:58:35+08:00"
+      "checkedAt": "2026-11-19T08:04:15+08:00"
     },
     {
       "id": "tongji-03-phd-2027",
@@ -2482,7 +2496,7 @@
         "https://yz.tongji.edu.cn/__local/6/06/1D/F7695DEC342BF1D025F2702783F_D2B0E0E8_30FD0.pdf",
         "https://yz.tongji.edu.cn/__local/C/6C/5E/B6F0DCA6AA253E0297CDF0A863C_6CBFCA7E_38F21.pdf"
       ],
-      "checkedAt": "2026-11-18T07:58:35+08:00"
+      "checkedAt": "2026-11-19T08:04:15+08:00"
     },
     {
       "id": "tongji-med-prescreen-direct-phd-2027",
@@ -2749,7 +2763,7 @@
           "url": "https://ao.smmu.edu.cn/_upload/article/files/f7/47/dce22e5441b980f29bf8df62948f/2d354cdf-bb63-4a2b-ba20-b5051af53f32.xls"
         }
       ],
-      "checkedAt": "2026-11-18T07:58:35+08:00"
+      "checkedAt": "2026-11-19T08:04:15+08:00"
     }
   ],
   "sources": [
@@ -3434,16 +3448,34 @@
       "city": "南京",
       "url": "https://yjszs.njmu.edu.cn/2026/1014/c10171a307845/page.htm",
       "category": "申博"
+    },
+    {
+      "name": "上海交通大学2027年博士研究生招生专业目录",
+      "city": "上海",
+      "url": "https://yzb.sjtu.edu.cn/post/3832",
+      "category": "博士招生目录",
+      "university": "上海交通大学"
+    },
+    {
+      "name": "上海交通大学2027博士院系申请办法与报名状态",
+      "city": "上海",
+      "url": "https://ga.sjtu.edu.cn/zsgl/bswb/yxsqbfcx.aspx",
+      "category": "博士报名状态",
+      "university": "上海交通大学"
     }
   ],
   "meta": {
-    "lastCheckedAt": "2026-11-18T14:01:07+08:00",
+    "lastCheckedAt": "2026-11-19T08:04:15+08:00",
     "scheduleStatus": "active",
     "scheduleText": "每天北京时间 08:00 和 14:00 启动官方信息核查，核查完成后同步更新。",
-    "summary": "新增1条南京医科大学2027临床医学专业学位博士校内优选试点官方记录，补充报名起止、申请条件及综合考核办法；明确该通道仅限应届临床医学学硕校内优选，不含住培。复核四校、南京及杭州近期官方入口，未确认其他新增或字段变化；既有51院名录、121条记录、失败来源和原核查时间均保留。",
-    "revision": 7
+    "summary": "新增核实上海交通大学2027年博士研究生招生专业目录，并将医学院普通博士监测条目升级为部分核实；官方院系申请页显示医学院及各医学培养单位暂未开放普通申请考核报名，故未推算报名日期或考核安排。复核上海、南京、杭州近期官方入口，未确认其他新增或字段变化。",
+    "revision": 8
   },
   "logs": [
+    {
+      "checkedAt": "2026-11-19T08:04:15+08:00",
+      "summary": "新增核实上海交通大学2027博士专业目录1项；医学院及附属医院普通申请考核报名仍未开放，相关监测条目升级为部分核实。其余近期官方入口未确认新增。"
+    },
     {
       "checkedAt": "2026-11-18T14:01:07+08:00",
       "summary": "新增南京医科大学2027临床医学专业学位博士校内优选试点1条：核实报名为10月19日10:00至10月21日10:00、申请条件及10月31日前综合答辩安排；全站记录增至122条。其余近期官方入口未确认新增。"
